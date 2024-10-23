@@ -1,0 +1,2 @@
+# Boston Housing Prices Prediction
+ In this project, we predict the housing prices in Boston using machine learning techniques. The Boston Housing dataset serves as a foundation to explore various regression algorithms. By analyzing features like crime rate, number of rooms, and proximity to highways, we aim to build an accurate predictive model. This project is ideal for understanding the basics of data preprocessing, model training, and evaluation in a real-world context.
